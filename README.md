@@ -20,7 +20,7 @@ cd revi-challenge
 npm install
 ```
 
-4. Execute a aplicação
+4. Execute a aplicação. O app vai estar disponível em [http://localhost:5173](http://localhost:5173)
 
 ```bash
 npm run dev
